@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste react by Kamran Ayesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamranayesh/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "kamran",
+    "ayesh"
+  ],
+  "author": "kamran ayesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamranayesh/namaste-react/issues"
+  },
+  "homepage": "https://github.com/kamranayesh/namaste-react#readme"
+}
